@@ -1,0 +1,8 @@
+# App
+.env
+node_modules/*
+
+
+# Operational System
+.DS_Store
+._*
