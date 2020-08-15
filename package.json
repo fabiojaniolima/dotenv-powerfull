@@ -1,0 +1,17 @@
+{
+  "name": "dotenv-powerfull",
+  "version": "0.1.0",
+  "description": "This module allows you to manage your environment settings in a more elegant way",
+  "main": "lib/index.js",
+  "keywords": [
+    "env",
+    ".env",
+    "environment",
+    "variables",
+    "config",
+    "settings"
+  ],
+  "repository": "https://github.com/fabiojaniolima/dotenv-powerfull.git",
+  "author": "fabiojaniolima <fabiojaniolima@gmail.com>",
+  "license": "MIT"
+}
