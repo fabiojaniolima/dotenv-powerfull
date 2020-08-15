@@ -13,5 +13,8 @@
   ],
   "repository": "https://github.com/fabiojaniolima/dotenv-powerfull.git",
   "author": "fabiojaniolima <fabiojaniolima@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
 }
